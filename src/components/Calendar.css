@@ -1,0 +1,40 @@
+.calendar-container{
+  margin-top: 20px;
+}
+.calendar-card{
+  border:none;
+  border-radius: 0px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  background: #fff;
+  overflow: hidden;
+}
+.calendar-header{
+  background-color: #a80b0b;
+  padding: 20px;
+}
+.calendar-month{
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  display: block;
+}
+.calendar-card .card-body{
+  padding: 20px;
+}
+.calendar-day{
+  font-size: 16px;
+  color: #6c757d;
+  margin-bottom: 5px;
+}
+.calendar-date{
+  font-size: 72px;
+  font-weight: bold;
+  color: #343a40;
+  margin-bottom: 5px;
+}
+.calendar-year{
+  font-size: 18px;
+  color: #a80b0b;
+}
+
